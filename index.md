@@ -21,7 +21,24 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 
-Hello world
+Hello world. a bit of R now
+
+
+```r
+sum(1:100)
+```
+
+```
+## [1] 5050
+```
+
+```r
+100*101/2
+```
+
+```
+## [1] 5050
+```
 
 ---
 
